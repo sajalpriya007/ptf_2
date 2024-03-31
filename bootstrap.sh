@@ -26,4 +26,3 @@ echo
 echo
 echo "** DONE **"
 echo "PTF is built and ready to use."
-exit 0

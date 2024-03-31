@@ -1,1 +1,3 @@
-ERROR:root:PTF was not run with higher privileges (root)
+INFO:root:User commands passed through arguments:
+INFO:root:['/Users/sajalpriya/Desktop/pt2/ptf_2/ptf', '--no-network-connection', 'modules/exploitation/findsploit', '1213243434']
+INFO:root:exit
